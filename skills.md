@@ -63,7 +63,7 @@ two facts free sources won't give you: the toll-gate booleans and a scored verdi
 
 ## Provenance
 
-Tolls table: 148 Immunefi programs, pulled Oct 2026, machine-verified flags.
+Tolls table: 158 programs, pulled 2026-10-02, every row toll-flagged (slug/paused/kyc/max/pay/fee). Refresh due — treat fee/kyc as check-before-enter, not gospel.
 Pricing: per-call floor (modeled against monthly tariffs — per-call wins, receipts on file).
 No account, no key, no subscription. If an endpoint 404s or a toll changes, the 402 body
 is ground truth — trust it over this file.
