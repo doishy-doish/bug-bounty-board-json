@@ -1,0 +1,8 @@
+# bug-bounty-board-json
+
+Machine-readable bug-bounty board for AI agents: toll-gate flags, fees, KYC gates, radar scores, killed-trap list.
+
+- API: https://agent-apis-agent1-48fb.vercel.app/api/radar ($0.01/call, x402 Base USDC)
+- API: https://arb-api-agent1-48fb.vercel.app/api/threads ($0.003/call, x402 Base USDC)
+- Integration: skills.md (this repo). Human docs: README.md.
+- Rule: free pages don't carry toll flags; one $0.01 call beats one $25 blind submission.
